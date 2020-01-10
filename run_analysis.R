@@ -1,4 +1,4 @@
-# https://rstudio-pubs-static.s3.amazonaws.com/137175_558309700d8c447f92fca62384f866de.html
+
 
 rm(list = ls())
 getwd()
